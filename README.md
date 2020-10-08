@@ -10,13 +10,14 @@ Buenas, soy **Iván Calvo**, **estudiante de Grado Superior de Desarrollo de Apl
 
 **Hablemos sobre cosas sobre mi:**
 
-- 👨🏽‍💻 I’m currently an Artificial Intelligence intern with [Vneuron](https://www.vneuron.com/) working on NLP/NLU projects;
-- 🌱 I’m currently learning Deep Reinforcement Learning; 
-- 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
-- 💼 I’m pursuing a Bachelor's degree in Software Engineering;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via mabrouki.mehdi25@gmail.com to reach me.
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing) to get more info.
+- 🤔 Mis principales aficiones son:
+                                    - :runner: Los deportes, principalmente el frontón. :tennis:
+                                    - :video_game: Los videojuegos.
+                                    - :computer: La informática y la programación.
+
+- 💬 Preguntame cualquier cosa e intentaré ayudarte.
+- 📫 Si necesitas contactar conmigo hazlo a través de mi correo: ivancalo2000@gmail.com
+
 
 
 
