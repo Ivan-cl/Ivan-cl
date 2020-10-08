@@ -10,9 +10,9 @@ Buenas, soy **Iván Calvo**, **estudiante de Grado Superior de Desarrollo de Apl
 
 **Hablemos sobre cosas sobre mi:**
 
-- 🤔 Mis principales aficiones son:
-                                    - :runner: Los deportes, principalmente el frontón. :tennis:
-                                    - :video_game: Los videojuegos.
+- 🤔 Mis principales aficiones son:<br>
+                                    - :runner: Los deportes, principalmente el frontón. :tennis:<br>
+                                    - :video_game: Los videojuegos.<br>
                                     - :computer: La informática y la programación.
 
 - 💬 Preguntame cualquier cosa e intentaré ayudarte.
